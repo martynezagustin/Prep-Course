@@ -1,0 +1,5 @@
+Variables = las variables se usan para asignarle un valor a algo. Pueden ser un valor booleano, un numero, un string. Las variables a lo largo de la programación, pueden cambiar su valor, porque justamente no queda fijo su contenido.
+Strings = las strings son palabras que se asignan en los lets, variables o constantes. Pueden ser cualquier palabra o texto (siempre y cuando no se usen otras palabras YA ESTABLECIDAS) podemos decir que una string puede ser 'perro', 'gato', 'greta', etc. pero nunca ser 'true', 'false', 'var', 'let' (a lo sumo que se pongan entre comillas como se vió recién)
+Funciones = las funciones son un proceso que programamos para que se ejecute y cumpla, justamente, una función. Se indica el nombre, los argumentos de la misma (que condiciones ha de cumplir)y se retorna un valor que queramos dependiendo de lo que indiquemos.
+Declaraciones if = if funciona para indicar que: si X cosa se cumple, retorname X cosa o valor.
+valores booleanos = un valor booleano funciona en codigo binario (0,1,1,0) y su expresión son true (1) o fasle (0)
